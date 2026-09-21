@@ -156,4 +156,3 @@ fig = px.bar(
 )
 
 st.plotly_chart(fig, width="stretch")
-```
