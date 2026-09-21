@@ -1,4 +1,3 @@
-```python
 # 어제의 박스오피스 — KOBIS 일별 박스오피스 API
 import datetime
 
